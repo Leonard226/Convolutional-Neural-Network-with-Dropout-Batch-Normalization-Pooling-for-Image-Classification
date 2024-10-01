@@ -1,6 +1,4 @@
 # Convolutional Neural Network w/ Dropout, Batch Normalization, Pooling for Image Classification
-## MNIST Image Classification using a Convolutional Neural Network (CNN)
-
 #### Overview
 
 This project implements a **Convolutional Neural Network (CNN)** for image classification on the MNIST dataset. The network classifies handwritten digits (0–9) with an accuracy of 99% on the training data, leveraging advanced deep learning techniques in **PyTorch**.
